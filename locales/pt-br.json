@@ -300,56 +300,56 @@
 			"p16": "Many thanks to you for having been with us for so many years, hoping that this new version will please you! Do not hesitate to tell us your opinion about this one on Twitter by mentioning @affinitweet_ 😄"
 		},
 		"faq": {
-			"title": "Frequenlty asked questions",
+			"title": "Perguntas frequentes",
 			"tinyTitle": "FAQ",
-			"searchTerms": "Search terms...",
-			"intro": "Welcome on our frequently asked questions page! If you don't find your answers, contact us! Click on the right category corresponding to your search or search terms in the input field below.",
-			"global": "Global",
-			"features": "Features",
-			"security": "Security",
-			"privacy": "Privacy",
-			"monetization": "Monetization",
+			"searchTerms": "Termos de pesquisa...",
+			"intro": "Bem vindo a nossa página de perguntas frequentes! Se você não encontrar suas respostas, nos contate! Clique na categoria que corresponda a sua busca our pesquise por termos no campo abaixo.",
+			"global": "Geral",
+			"features": "Testes",
+			"security": "Segurança",
+			"privacy": "Privacidade",
+			"monetization": "Monetização",
 			"questions": {
 				"global": [
 					[
-						"What is Affinitweet's purpose?",
-						"This is a very often asked question, Affinitweet brings two things: entertaining features and statistics, separated into two distinct categories. You certainly know Affinitweet for its viral and entertaining features shared on Twitter, but we offer other useful and interesting features!"
+						"Qual é o propósito do Affinitweet?",
+						"Essa é uma questão muito perguntada, o Affinitweet traz duas coisas: testes divertidos e estatísticas, separadas em duas categorias distintas. Você com certeza conhece o Affinitweet por seus divertidos e virais testes compartilhados no Twitter, mas nós oferecemos outros testes úteis e interessantes!"
 					],
 					[
-						"How to use our services / login?",
-						"To use our services, you must log in with your Twitter account. To do so, simply click on \"Log in\" at the top right, then go to the page of your choice."
+						"Como usar os nossos serviços / entrar?",
+						"Para usar nossos serviços, você deve entrar com sua conta do Twitter. Para isso, basta clicar em \"Log in\" no canto superior direito, após isso, vá para a página de sua escolha."
 					],
 					[
-						"How do I access my profile or log out?",
-						"Once logged in with your Twitter account, you can access your profile or log out by clicking or hovering your Twitter nickname at the top right."
+						"Como eu acesso meu perfil ou saio?",
+						"Uma vez que você entrou com sua conta no Twitter, você pode acessar seu perfil ou sair clicando ou passando o mouse por cima de seu nome de usuário do Twitter no canto superior direito."
 					],
 					[
-						"But Affinitweet is French?",
-						"Absolutely, Affinitweet was created and is hosted in France 🇫🇷, do not be surprised if we speak better french than english or if we answer you on Twitter more easily in this language!"
+						"Mas o Affinitweet é francês?",
+						"Absolutamente, Affinitweet foi criado e está hospedado na França 🇫🇷, não se surpreenda só nos falarmos melhor em francês do que em inglês ou se te respondermos no Twitter mais fácilmente nesse idioma!"
 					],
 					[
-						"Affinitweet is not available in my language, how do I do?",
-						"If your language is not supported, you will see Affinitweet in english by default. If you have the courage and desire to help us internationalize and appear as a translator on Affinitweet, you can participate and translate the texts available here."
+						"O Affinitweet não está disponível no meu idioma, o que eu faço?",
+						"Se seu idioma não é suportado, você verá o Affinitweet em inglês por padrão. Se você tiver a coragem e o desejo de nos ajudar a internacionalizar e aparecer como um tradutor no Affinitweet, você pode particiar e traduzir os textos disponíveis aqui."
 					],
 					[
-						"Why is there a mining script?",
-						"When we released our new version, it included a mining script on all pages, inactive by default, now included only when the option is enabled. We have taken the initiative to offer two kinds of remuneration by giving you the choice between advertising (by default) or mining. To activate it, simply switch the monetization mode in your profile to enjoy Affinitweet without ads."
+						"Por que há um script de mineiração?",
+						"Quando nós lançamos nossa nova versão, ela incluia um script de mineiração em todas as páginas, inativo por padrão, agora incluido apenas quando a opção está ativada. Nós tomamos a iniciativa de oferecer dois tipos de remuneração dando a você a escolha entre anúncios (por padrão) ou mineiração. Para ativa-la, basta trocar o modo de monetização no seu perfil para aproveitar o Affinitweet sem anúncios."
 					],
 					[
-						"Why are you asking for write access to my Twitter account?",
-						"For ease of use, we request read and write access to your Twitter account so that we can publish a tweet if you allow us to do so. This saves us having to create two applications, and you having to log in twice."
+						"Por que vocês pedem por acesso à escrita em minha conta do Twitter?",
+						"Para facilitar o uso, nós pedimos os acessos de leitura e escrita a sua conta no Twitter para podermos publicar um tweet se você nos permitir isso. Isso nos salva de ter que criar duas aplicações e te salva de ter que entrar duas vezes."
 					],
 					[
-						"Why was a tweet published without my consent?",
-						"This is not the case and it never will be, we always obtain your consent via an action on your part before doing anything. If a tweet has been posted to your Twitter profile, you have authorized us to do so by clicking an approval button."
+						"Por que um tweet foi publicado sem meu consentimento?",
+						"Esse não é o caso e nunca será, nós sempre obtemos seu consentimento através de uma ação de sua parte antes de fazer qualquer coisa. Se um tweet foi postado em seu perfil no Twitter, você nos autorizou a fazer isso clicando em um botão de aprovação."
 					],
 					[
-						"What do \"POP\" and \"NEW\" mean?",
-						"These labels are attached to features and are visible next to them. \"POP\" means \"popular.\" It's a popular feature. \"NEW\" means \"new\". It's a feature that was added a while ago."
+						"O que \"POP\" e \"NEW\" significam?",
+						"Essas indicações estão ligadas a testes e são visíveis perto deles. \"POP\" significa \"popular\". É um teste popular. \"NEW\" significa \"novo\". É um teste que foi adicionado recentemente."
 					],
 					[
-						"How do I log in with another account?",
-						"When you log in to Affinitweet, the Twitter account to which you are connected on the browser is used. If you want to switch your account and use Affinitweet with an account other than this one, you have several possibilities: (1) while connected, hover your username on the top right and click on \"Switch account\", you will be redirected to Twitter and asked to log in with your new account ; (2) switch to private browsing; (3) disconnect from Twitter and reconnect with the new account; (4) use another browser not connected with that same Twitter account."
+						"Como eu entro com outra conta?",
+						"Quando você entra no Affinitweet, a conta do Twitter que você está conectado no navegador é usada. Se você quiser trocar de conta e usar o Affinitweet com outra conta que não seja essa, você possui diversas possibilidades: (1) enquanto conectado, passe com seu mouse em cima do seu nome de usuário no canto superior direito e clique em \"Trocar de conta\", você será redirecionado para o Twitter e ele pedirá para você entrar com sua nova conta; (2) Mude para uma navegação anônima; (3) Desconecte-se de seu Twitter e reconecte-se com a nova conta; (4) Use outro navegador que não esteja conectado com a mesma conta do Twitter."
 					]
 				],
 				"features": [
