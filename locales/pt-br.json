@@ -163,8 +163,8 @@
 				}
 			},
 			"all-in-one": "TUDO-EM-UM inclui todos os outros testes e faz uma média geral. Essa média geral é a media dos Match de Cores, Amizades, Menções, Fontes em Comum e Amigos em comuns. Esse teste avalia seus #affinitwees o mais precisamente possível com o usuário desejado.",
-			"friendships": "Amizades consegue ver todos os seus #affinitwees com o usuário desejado (ex: bloqueado ou não, seguido ou não...).",
-			"affinitweet-global-rank": "Affinitwees Global Rank is based on ALL-IN-ONE feature. It determinates your #affinitwees ranking from an existing result relative to all others results. Your #affinitwees are they higher than the average?",
+			"friendships": "O Amizades consegue ver todos os seus #affinitwees com o usuário desejado (ex: bloqueado ou não, seguido ou não...).",
+			"affinitweet-global-rank": "O Rank Global de Affinitwees Global Rank é baseado no teste TUDO-EM-UM. Ele determina sus rank de #affinitwees a partir de um resultado existente relativo a todos os outros resultados. Seus #affinitwees são maiores que a média?",
 			"color-matching": "O Match de Cores é um novo teste que calcula a porcentagem de similaridade entre as cores do seu perfil do Twitter e as de outro usuário. É baseado nas cores de fundo e do tema que estão disponíveis em twitter.com/settings/design no final da página.",
 			"common-friends": "Amigos em Comum é um teste que verifica os usuários que você e o usuário desejado seguem.",
 			"common-sources": "Fontes em Comum verifica todas as fontes de seus tweets (ex: TweetDeck, Android, iOS...) e as compara com as do usuário desejado.",
@@ -354,28 +354,28 @@
 				],
 				"features": [
 					[
-						"How is the Top Friends determined?",
-						"The Top Friends is mainly determined from tweets, we go back to your last 3200 tweets to establish a ranking over a long period."
+						"Como os Melhores Amigos são determinados?",
+						"Oos Melhores Amigos são principalmente determinados a partir de tweets, nós verificamos seus últimos 3200 tweets para estabelecer um ranking em um longo período."
 					],
 					[
-						"Why doesn't my Top Friends stick to reality?",
-						"We try to get as close as possible to reality with the information we collect. Sometimes someone you don't talk to anymore but have talked to a lot in the past is present in your Top Friends if you haven't been tweeting a lot for a while for example."
+						"Por que meus Melhores Amigos não condizem com a realidade?",
+						"Nós tentamos chegar o mais próximo possível da realidade com as informações que coletamos. As vezes alguém que você não conversa mais, mas conversou bastante no passado está presente nos seus Melhores Amigos caso você não tenha tweetado muito por um tempo, por exemplo."
 					],
 					[
-						"How are the results of the other features determined?",
-						"The algorithms used to determine these results are strictly confidential, unfortunately we do not wish to communicate on them."
+						"Como os resultados dos outros testes são determinados?",
+						"Os algoritmos que nós usamos para determinar esses resultados são estritamente confidenciais, infelizmente nós não queremos contar sobre eles."
 					],
 					[
-						"I got my sister at Valentine's and my dad in Secret Crush!",
-						"\"Fun\" features are only intended to entertain as the category name indicates. Although we try to get as close to reality as possible with our algorithm parameters, if we come across the right person(s) it would only be by chance!"
+						"Eu tirei minha irmã no teste do Amado e meu pai no Crush Secreto!",
+						"Os testes da categoria \"Fun\" (diversão) têm apenas o objetivo de entreter, como o nome da categoria indica. Embora tentamos chegar o mais próximo possível da realidade com os parâmetros de nossos algoritmos, só nós acertassemos a pessoa seria apenas por acaso!"
 					],
 					[
-						"How does First To Follow work?",
-						"The First To Follow is an exclusive feature and is not available anywhere else. It lets you know when a given person has followed you and vice versa. Gourmet functionality, you can only make a limited number per 15 minutes."
+						"Como o Primeiro a Seguir funciona?",
+						"O Primeiro a Seguir e um teste exclusivo e não está disponível em nenhum outro lugar. Ele te permite saber quando uma dada pessoa te seguir e vice-versa. É uma funcionalidade Gourmet, você apenas pode realizar um número limitado a cada 15 minutos."
 					],
 					[
-						"How does Emoji Mood work?",
-						"The Emoji Mood lets you know which emojis you've been tweeting the most lately, we go back to your last 3200 tweets and simply count that!"
+						"Como o Humor de Emojis funciona?",
+						"O Humor de Emojis the permite saber quais emojis você mais esteve tweetando recentemente, nós verificamos seus últimos 3200 tweets e simplemente contamos eles!"
 					]
 				],
 				"security": [
